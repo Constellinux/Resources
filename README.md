@@ -1,2 +1,20 @@
 # Resources
 Resources for Constello Container.
+## Includes:
+### Fonts:
+- Braille
+- Cursed
+- Hebrew
+- Llama
+- Origin-Legacy
+- Origin-Reduced
+- Origin
+### Icons:
+- batteryLow
+- batteryOK
+- networkDisconnected
+- networkConnected
+- roturConnected
+- roturDisconnected
+### Wallpapers:
+- No-Internet-Wallpaper

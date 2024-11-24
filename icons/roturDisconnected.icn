@@ -1,0 +1,7 @@
+c #B2BEB5
+w 1
+ellipse 0 0 10 0.5 100
+ellipse 0 0 10 0.5 160
+ellipse 0 0 10 0.5 220
+w 2
+line 8 8 -8 -8
