@@ -1,0 +1,18 @@
+c #5c33a3
+w 6
+dot 0 -3
+square 0 -2 5 6
+square -2 3 3 53
+c #4f2b69
+line 2 9.5 6.5 5
+cont 2 5
+cont 2 9.5
+c #523585
+w 13
+dot 0 -3
+c #3a1c4f
+w 1.8
+line 1.75 0.5 5.25 -3
+cont 1.75 -6.5
+line -1.75 0.5 -5.25 -3
+cont -1.75 -6.5

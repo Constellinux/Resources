@@ -6,11 +6,13 @@
     "/fonts/origin-legacy.ojff",
     "/fonts/origin-reduced.ojff",
     "/fonts/origin.ojff",
+    "fonts/beaver.ojff",
     "/wallpapers/no-internet-wallpaper.png",
     "/icons/batteryLow.icn",
     "/icons/batteryOK.icn",
     "/icons/networkConnected.icn",
     "/icons/networkDisconnected.icn",
     "/icons/roturConnected.icn",
-    "/icons/roturDisconnected.icn"
+    "/icons/roturDisconnected.icn",
+    "/icons/crl.icn"
 ]
