@@ -1,9 +1,9 @@
-w 2
-square -1.5 0 9 5
-w 5
-square -9 0 0 
-square -4.5 0 0 3
-quare 0 0 0 3
-square 4.5 0 0
+w 2 
+square -1.5 0 9 5 
+w 5 
+square -9 0 0 3 
+square -4.5 0 0 3 
+square 0 0 0 3 
+square 4.5 0 0 3 
 w 3
 line 8.5 0 8.5 0
